@@ -1163,7 +1163,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Historical return data for funds and tickers.
 - [Fuentio](https://fuentio.com) `https://api.fuentio.com/mcp`
   [![Fuentio MCP connector](https://glama.ai/mcp/connectors/com.fuentio/company-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.fuentio/company-data)
-  🔓 - Verify French and Spanish companies from official registries, with the source, check date and a receipt on every answer.
+  🔓 - Verify UK, French and Spanish companies from official registries, with source, check date and receipt on every answer.
 - [Global FinReg](https://www.globalfinreg.com) `https://api2.globalfinreg.com/mcp`
   [![Global FinReg MCP connector](https://glama.ai/mcp/connectors/com.globalfinreg/lei/badges/score.svg)](https://glama.ai/mcp/connectors/com.globalfinreg/lei)
   🔓 - Look up LEIs in the global LEI register; renew, transfer and register LEIs with a Global FinReg account.
